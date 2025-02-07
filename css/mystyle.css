@@ -1,0 +1,72 @@
+
+
+
+nav ul{
+    list-style-type: none; padding:1%; padding-left:0%; background-color: #36bdf3; 
+}
+
+nav ul li{display:inline; padding:0%;
+}
+
+nav ul li a{  padding:1%;color:white; text-decoration: none; border-right: 1px dotted white; font-weight: bold;
+text-align: center;  
+}
+
+
+nav ul li a:hover{
+    background-color: greenyellow;
+}
+
+
+nav ul li a:active{
+ background-color: green;
+}
+
+
+
+.col-xl-3{margin: 3%;padding:2px;border:1px solid #36bdf3;border-radius: 3px;
+}
+
+
+/*  Main content  */
+
+
+.intro{
+    padding:2%;
+    margin-top:3%;
+    margin-left:2%;
+
+}
+
+.picture{
+    padding:2%;
+}
+
+.rounded-circle{
+    border:#36bdf3 solid 1px;
+}
+
+h2{padding:1%;background-color: #36bdf3 ;color: white;
+}
+
+
+  /*  Buttons formating and settings */
+
+  .btn {text-decoration: none; background-color:#36bdf3 ;color:white; width: fit-content;border: 1px solid  #36bdf3;
+  }
+
+
+
+  .Web-p-link{text-decoration: none;background-color:#36bdf3 ;margin:1%; padding:2%; color:white; width: fit-content; border: 1px solid  #36bdf3;border-radius: 3px;
+  }
+
+
+
+  img{max-width: 100%; height: 100%;
+  }
+
+
+  /* FOOTER SETTINGS */
+
+  .foot{ background-color:red; color:white;padding:10px;
+  }

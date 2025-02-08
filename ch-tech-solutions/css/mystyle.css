@@ -1,0 +1,69 @@
+
+
+
+nav ul{
+    list-style-type: none; padding:1%; padding-left:0%; background-color: #c51200; 
+}
+
+nav ul li{display:inline; padding:0%;
+}
+
+nav ul li a{  padding:1%;color:white; text-decoration: none; border-right: 1px dotted white; font-weight: bold;
+text-align: center;  
+}
+
+
+nav ul li a:hover{
+    background-color: greenyellow;
+}
+
+
+nav ul li a:active{
+ background-color: green;
+}
+
+
+/*  Main content  */
+
+
+.intro{
+    padding:2%;
+    margin-top:3%;
+    margin-left:2%;
+
+}
+
+.picture{
+    padding:2%;
+}
+
+.rounded-circle{
+    border:#6288e1 solid 1px;
+}
+
+h2{padding:1x;background-color:#de8869 ;color: white;}
+
+.project-c{margin:3px; height: 90%;}
+
+
+
+  /*  Buttons formating and settings */
+
+  .btn {text-decoration: none; background-color:#36bdf3 ;color:white; width: fit-content;border: 1px solid  #36bdf3;
+  }
+
+
+
+  .Web-p-link{text-decoration: none;background-color:#6288e1 ;margin:1%; padding:2%; color:white; width: fit-content; border: 1px solid  #36bdf3;border-radius: 3px;
+  }
+
+
+
+  img{max-width: 100%; height: 100%;
+  }
+
+
+  /* FOOTER SETTINGS */
+
+  .foot{margin-top: 20px; background-color:#243578; color:white;padding:10px;
+  }
